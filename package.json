@@ -1,0 +1,24 @@
+{
+  "name": "npm-apriori",
+  "version": "1.0.0",
+  "description": "Apriori algorithm based on dmarges/apriori",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khcarlso/npm-apriori.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "apriori"
+  ],
+  "author": "Kevin Carlson <http://carlsononcommerce.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khcarlso/npm-apriori/issues"
+  },
+  "homepage": "https://github.com/khcarlso/npm-apriori#readme"
+}
